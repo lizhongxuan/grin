@@ -1127,7 +1127,7 @@ dependencies = [
  "rustc-serialize",
  "serde",
  "serde_json",
- "zeroize 0.9.3",
+ "zeroize 1.1.0",
 ]
 
 [[package]]
